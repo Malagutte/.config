@@ -8,8 +8,8 @@ command_timeout = 2000
 
 # Change the default prompt format
 format = """\
-[╭╴](238)$env_var\
-$all[╰─](238)$character"""
+(238)$env_var\
+$all"""
 # 
 # Change the default prompt characters
 [character]
