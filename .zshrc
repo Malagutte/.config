@@ -1,5 +1,5 @@
 export ZSH="$HOME/.oh-my-zsh"
-export STARSHIP_CONFIG="/home/$USER/git/.config/starship.toml"
+export STARSHIP_CONFIG="/home/$USER/.config/starship.toml"
 ZSH_THEME="awesomepanda"
 plugins=(git kubectl);
 source $ZSH/oh-my-zsh.sh
